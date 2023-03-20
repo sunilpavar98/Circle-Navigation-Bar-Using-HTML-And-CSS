@@ -1,0 +1,24 @@
+ *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+:root{
+    --bg-color : #ecf2f9;
+    --outer-shadow : 3px 3px 3px #fff, -3px -3px 3px #ceced1;
+    --inner-shadow : inset 3px 3px 3px #fff, inset -3px -3px 3px #ceced1;
+}
+
+body{
+    background-color: var(--bg-color);
+}
+a{
+    text-decoration: none;
+}
+
+
+/*
+	Youtube Channal Link :- https://www.youtube.com/@codingissoeasy
+			 
+	Video Link :- https://youtu.be/nOlh33_6Azw
+*/
